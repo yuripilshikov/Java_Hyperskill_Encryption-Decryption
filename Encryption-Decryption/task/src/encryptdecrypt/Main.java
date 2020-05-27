@@ -29,6 +29,8 @@ public class Main {
 
     }
 
+
+    
     public static void encrypt(String str, int key) {
         char[] chars = str.toCharArray();
 
